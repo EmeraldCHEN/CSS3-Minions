@@ -1,3 +1,4 @@
+/* Mainly learned & imitated from: https://github.com/JR93/css3-littleHuang */
 body { 
       margin: 0;
       padding: 0;
@@ -11,21 +12,21 @@ body {
 }
 .body {
        position: absolute;
-	   width: 240px;
-	   height: 400px;
-	   border: 5px solid #000;
-	   border-radius: 116px;
-	   background: rgb(249,217,70);
-	   overflow: hidden;
-	   z-index: 2;
+       width: 240px;
+       height: 400px;   
+       border: 5px solid #000;
+       border-radius: 116px;
+       background: rgb(249,217,70);
+       overflow: hidden;
+       z-index: 2;
 }
 .belt {
        position: absolute;             
 }
 .left, .right {
                width: 100px;
-			   height:16px;
-			   border: 5px solid #000;
+	       height:16px;
+               border: 5px solid #000;
 			   background: rgb(32,116,160);
 			   position: absolute;
 			   top:-90px;
