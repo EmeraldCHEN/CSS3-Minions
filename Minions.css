@@ -27,12 +27,12 @@ body {
                width: 100px;
 	       height:16px;
                border: 5px solid #000;
-			   background: rgb(32,116,160);
-			   position: absolute;
-			   top:-90px;
-			   left: -35px;
-			   z-index: 2;
-			   -webkit-transform: rotate(45deg);
+	       background: rgb(32,116,160);
+	       position: absolute;
+	       top:-90px;
+	       left: -35px;
+	       z-index: 2;
+	       -webkit-transform: rotate(45deg);
 }
 .left {
        top: -88px;
@@ -376,17 +376,17 @@ body {
 		  -webkit-transform: rotate(5deg);
 }
 .left_foot:after {
-          border-radius: 10px 20px 15px 21px;
+                  border-radius: 10px 20px 15px 21px;
 		  left: 13px;
 		  -webkit-transform: rotate(-5deg);
 }
 .groundShadow {
-            width: 200px;
-			height: 2px;
-			border-radius: 50%;
-			background: raba(0,0,0,0.3);
-			box-shadow: 0 0 2px 4px rgba(0,0,0,0.3);
-			position: relative;
-			top: 455px;
-			left: 25px;
+                width: 200px;
+	        height: 2px;
+	        border-radius: 50%;
+		background: raba(0,0,0,0.3);
+		box-shadow: 0 0 2px 4px rgba(0,0,0,0.3);
+		position: relative;
+		top: 455px;
+		left: 25px;
 }
